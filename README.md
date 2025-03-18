@@ -1,2 +1,2 @@
 # Instagram-Story-Feature
-Making Instagram Story Features
+Making Instagram Story Features.
